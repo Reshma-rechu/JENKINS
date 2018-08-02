@@ -4,5 +4,9 @@ void main()
 {
 myprint();
  printf("haii.. how are you??..");
-return(0);
+void myprint(void)
+{
+print("hello makefiles\n");
+return;
+}
 }
