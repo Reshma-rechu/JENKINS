@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<hellomake.h>
-void main()
+void myprint(void)
 {
  printf("hello world..");
+return;
 }
