@@ -2,7 +2,7 @@
 #include<hellomake.h>
 void myprint(void)
 {
-printf("hello makefiles\n");
+printf("\nhello makefiles\n");
 return;
 }
 
